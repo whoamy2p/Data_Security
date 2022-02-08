@@ -1,5 +1,4 @@
 
-from inspect import Attribute
 from sys import path
 path.append('..\\secure_data')
 # path.append('C:\\Users\\user\\py\\secure_data')
